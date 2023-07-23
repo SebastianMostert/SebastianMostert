@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @SebastianMostert</h1> 
  <h3 align="center">A passionate developer from Luxembourg 🇱🇺</h3> 
   
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=that-half-dead-skeleton&label=Profile%20views&color=0e75b6&style=flat" alt="that-half-dead-skeleton" /> </p> 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=SebastianMostert&label=Profile%20views&color=0e75b6&style=flat" alt="SebastianMostert" /> </p> 
   
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=that-half-dead-skeleton" alt="that-half-dead-skeleton" /></a> </p> 
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SebastianMostert" alt="SebastianMostert" /></a> </p> 
   
  <p align="left"> <a href="https://twitter.com/genocrayon" target="blank"><img src="https://img.shields.io/twitter/follow/genocrayon?logo=twitter&style=for-the-badge" alt="genocrayon" /></a> </p> 
   
