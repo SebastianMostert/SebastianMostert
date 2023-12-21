@@ -5,19 +5,19 @@
   
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SebastianMostert" alt="SebastianMostert" /></a> </p> 
   
- - 🔭 I’m currently working on [Giscord, a multifunctional discord bot](https://discord.com/api/oauth2/authorize?client_id=973994338377941082&permissions=8&scope=bot%20applications.commands) 
+ - 🔭 I’m currently working on [a website for the National Museum of Military History (MNHM) NPO](https://github.com/LLIS-WW2-Database) 
   
  - 🌱 I’m currently learning **Javascript, Typescript, HTML** 
   
  - 👯 I’m looking to collaborate on **nothing at the moment** 
   
- - 👨‍💻 All of my projects are available at // TODO: Add link 
+ - 👨‍💻 My portfolio is available [here](https://sebastian-mostert.me)
   
  - 💬 Ask me about **anything related to Discord.JS** 
   
  - 📫 How to reach me **sebastianmostert663@gmail.com** 
   
- - 📄 Know about my experiences // TODO: Add link 
+ - 📄 Check out my NPM packages [here](https://www.npmjs.com/~sebastian_mostert)
   
  - ⚡ Fun fact **// TODO: Add Fun Fact** 
   
